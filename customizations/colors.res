@@ -50,6 +50,9 @@
 		"TransparentDarkerGray"		"33 33 33 200"
 		"THBlue"					"124 173 255 255"
 		"THRed"						"255 118 108 255"
+		//tf2c team colors
+		"THYlw"						"253 255 108 255"
+		"THGrn"						"162 255 108 255"
 		//UI
 		"THUnselected"				"118 118 118 236"
 		"Black"						"0 0 0 255"

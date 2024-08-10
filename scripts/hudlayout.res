@@ -1481,5 +1481,13 @@
 		"mouseinputenabled"		"0"
 		"alpha"					"100"
 	}
+	// TF2C elements are listed below
+	"HudScreenOverlays"
+	{
+	}
+	
+	"HudDistanceMeter"
+	{
+	}
 }
 
