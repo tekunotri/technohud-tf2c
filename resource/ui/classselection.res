@@ -412,9 +412,9 @@
 		"zpos"				"8"
 		"wide"				"150"
 		"tall"				"12"
-		"visible"			"1"
+		"visible"			"0"
 		"enabled"			"1"
-        "tabPosition"	"0"
+        "tabPosition"		"0"
 		"labelText"			"&0  Civ"
 		"textAlignment"		"west"
 		"Command"			"select 8"
@@ -429,6 +429,10 @@
 		"Default"			"0"
 		"stayselectedonclick"	"1"
 		"selectonhover"			"0"
+		"if_special_classes"
+		{
+				"visible"			"1"
+		}		
 	}
 
 	"EditLoadoutButton"
@@ -920,13 +924,17 @@
 		"zpos"			"5"
 		"wide"			"64"
 		"tall"			"16"
-		"visible"		"1"
+		"visible"		"0"
 		"enabled"		"1"
         "tabPosition"	"0"
 		"labelText"		"%numCivilian%"
 		"textAlignment"	"west"
 		"font"			"HudFont10Shadow"
 		"fgcolor"		"TanLight"
+		"if_special_classes"
+		{
+				"visible"			"1"
+		}		
 	}
 
 	"ClassInfoPanel"
